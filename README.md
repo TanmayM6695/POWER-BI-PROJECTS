@@ -54,7 +54,7 @@ The source dataset contains responses from thousands of professionals working in
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/data-professional-survey-pbi.git
+   git clone https://github.com/TanmayM6695/data-professional-survey-pbi.git
    ```
 2. Open the `.pbix` file using Power BI Desktop.
 3. Refresh data and explore the visualizations.
